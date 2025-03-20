@@ -127,5 +127,3 @@ model_name = "Helsinki-NLP/opus-mt-en-es"  # English to Spanish
 ## **8. Conclusion**
 This project demonstrates how **Transformer-based machine translation** can be implemented **fully offline** using **MarianMT**. It is an efficient, scalable, and cost-effective alternative to cloud-based translation services.
 
-Would you like additional enhancements, such as a **web interface** or **fine-tuning** for better accuracy? 🚀
-
